@@ -1,0 +1,43 @@
+/*
+pi-farewell by Kriegberg
+*/
+
+body {
+    /* Defining global font attributes */
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    /* Defining global background attributes */
+    background-color: #1E1E1E;
+    margin-top: 8vw;
+    margin-left: 12vw;
+    /* Defining global content width */
+    max-width: 410px;
+    min-width: 40px;
+}
+.pi-farewell-header {
+    /* Defining local font attributes */
+    font-size: 48px;
+    font-weight: 700;
+    /* Defining margin to distinguish content */
+    margin-bottom: 20px;
+}
+.pi-farewell-content {
+    /* Defining line height to make it less cluttered */
+    line-height: 30px;
+    /* Defining margin to distinguish content */
+    margin-bottom: 20px;
+}
+.pi-farewell-signature {
+    font-family: 'Licorice', cursive;
+    /* Defining specific font styling */
+    font-size: 32px;
+    /* Defining margin to distinguish content */
+    margin-bottom: 60px;
+}
+.pi-farewell-credits {
+    /* Defining line height to make it less cluttered */
+    line-height: 30px;
+    /* Defining specific font styling */
+    font-style: italic;
+}
