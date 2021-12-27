@@ -15,7 +15,7 @@ body {
     max-width: 410px;
     min-width: 40px;
     /* Fix for lower res devices */
-    margin-right: 10px;
+    margin-right: 12vw;
 }
 .pi-farewell-header {
     /* Defining local font attributes */
