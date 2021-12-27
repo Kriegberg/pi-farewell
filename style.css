@@ -14,6 +14,8 @@ body {
     /* Defining global content width */
     max-width: 410px;
     min-width: 40px;
+    /* Fix for lower res devices */
+    margin-right: 10px;
 }
 .pi-farewell-header {
     /* Defining local font attributes */
@@ -40,4 +42,6 @@ body {
     line-height: 30px;
     /* Defining specific font styling */
     font-style: italic;
+    /* Fix for lower res devices */
+    margin-bottom: 20px;
 }
